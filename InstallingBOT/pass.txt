@@ -1,3 +1,2 @@
-Password:hxsni
-Login:jakubc914
-saved
+Password:
+Login:
